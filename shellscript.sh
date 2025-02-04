@@ -1,0 +1,2 @@
+# yem bin!bash
+#echo
